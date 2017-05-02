@@ -1,56 +1,3 @@
-The Project Gutenberg eBook, The Book of War: The Military Classic of the
-Far East, by Sunzi (active 6th century B.c.) and Wutzu, Translated by
-Everard Ferguson Calthrop
-
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-
-
-
-Title: The Book of War: The Military Classic of the Far East
-       The Articles of Suntzu; The Sayings of Wutzu
-
-
-Author: Sunzi (active 6th century B.c.) and Wutzu
-
-
-
-Release Date: October 23, 2013  [eBook #44024]
-
-Language: English
-
-Character set encoding: ISO-646-US (US-ASCII)
-
-
-***START OF THE PROJECT GUTENBERG EBOOK THE BOOK OF WAR: THE MILITARY
-CLASSIC OF THE FAR EAST***
-
-
-E-text prepared by Paul Clark and the Online Distributed Proofreading Team
-(http://www.pgdp.net) from images generously made available by Internet
-Archive (https://archive.org/)
-
-
-
-Nore: Images of the original pages are available through
-      Internet Archive. See
-      https://archive.org/details/bookofwarmilitar00caltiala
-
-
-Transcriber's note:
-
-      Text enclosed by underscores is in italics (_italics_).
-
-      Changes made are listed at the end of the text.
-
-
-
-
 THE BOOK OF WAR
 
 The Military Classic of the Far East
@@ -4168,4 +4115,4 @@ Most people start at our Web site which has the main PG search facility:
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+subscribe to our email newsletter to hear about new eBooks.5
