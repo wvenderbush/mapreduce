@@ -1,9 +1,9 @@
-import time
-
 
 book = open("book.txt","r")
 
 #book = open("book_example.txt","r") ....for testing
+
+
 book_text = book.read()
 
 book_words = book_text.split();
@@ -25,9 +25,7 @@ def f_phrase(words):
 
 
 def most_frequent():
-   print time.time()
    word = reduce( lambda x, y: x if f_single(x) >= f_single(y) else y, book_words )
-   print time.time()
    return word
 
 
