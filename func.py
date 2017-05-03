@@ -33,5 +33,14 @@ def f_single(word):
    #return list_single_word
    return len(list_single_word)
 
+def f_phrase(words):
+	wlist = words.split(" ")
+	print wlist
+	list_words = filter(lambda x: x in wlist, book_words)
+	print list_words
+	return len(list_words)
+
 
 print f_single("a")
+
+print f_phrase("we do not of")
